@@ -30,7 +30,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="SampleData\" />
+    <None Update="SampleData\Attributes.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
