@@ -21,3 +21,7 @@
 /.vs/IntegrationTests/v17/TestStore/0/000.testlog
 /.vs/IntegrationTests/v17/.suo
 *.vsidx
+/obj
+/bin/Debug/net8.0
+/.vs/IntegrationTests/v17/TestStore/0
+/.vs
